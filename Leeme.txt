@@ -1,0 +1,7 @@
+Instalar WAMPSERVER, 
+Luego descarga e instala NODE, 
+Entrar a la carpeta del proyecto por cmd y escribir npm install y darle enter,
+Luego npm run dev
+Luego entrar en google a localhost:4000 y listo.
+		
+		
